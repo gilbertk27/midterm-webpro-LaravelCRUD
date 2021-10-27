@@ -48,10 +48,3 @@ Route::prefix('pertanyaan')->group(function()
     Route::put('/update/{id}', 'QuestionController@update')->name('question.update');
     Route::delete('/delete/{id}', 'QuestionController@delete')->name('question.delete');
 });
-Auth::routes();
-
-Route::get('/home', 'HomeController@index')->name('home');
-
-Auth::routes();
-
-Route::get('/home', 'HomeController@index')->name('home');
