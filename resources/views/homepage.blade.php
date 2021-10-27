@@ -26,7 +26,7 @@
                 <div class="feature-wrapper">
                     <div class="feature-text">
                         <div class="big-text-feature">
-                            <h3>Satu Untuk Semua, Semua Untuk Satu</h3>
+                            <h3>Satu Milik Semua, Semua Milik Satu</h3>
                         </div>
                         <div class="small-text-feature">
                             <p>TanyaAja merupakan komunitas terbuka untuk orang-orang yang kebingungan atau kehilangan arah.
