@@ -1,6 +1,6 @@
 # Midterm-Webpro-LaravelCRUD
  
-Must be included Features:
+## Must be included Features:
 
 Login
 
@@ -8,7 +8,7 @@ Logout
 
 Register
  
-Additional Features:
+## Additional Features:
 
 Users can ask questions
 
