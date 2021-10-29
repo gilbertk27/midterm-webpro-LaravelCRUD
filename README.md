@@ -25,3 +25,17 @@ The user can delete the questions and answers he or she gives
 List of questions using pagination
 
 Users can search for questions
+
+## Foreign Keys:
+
+questions_id
+
+users_id
+
+## Report:
+
+https://intip.in/WebproMidtermReport
+
+Link: http://fierce-scrubland-88761.herokuapp.com/
+
+Testing account: tester@gmail.com; testertester
